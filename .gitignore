@@ -31,3 +31,6 @@ go.work.sum
 *.ipr
 .idea_modules/
 out/
+
+# Puzzle file
+**/input.txt
