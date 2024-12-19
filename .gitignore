@@ -23,3 +23,11 @@ go.work.sum
 
 # env file
 .env
+
+# GoLand IDE specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+out/
