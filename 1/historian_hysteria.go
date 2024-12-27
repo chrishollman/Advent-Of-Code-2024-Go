@@ -1,13 +1,14 @@
-package main
+package dayOne
 
 import (
 	_ "embed"
 	"fmt"
-	"github.com/chrishollman/Advent-Of-Code-2024-Go/utils"
 	"slices"
 	"strconv"
 	"strings"
 	"time"
+
+	"github.com/chrishollman/Advent-Of-Code-2024-Go/utils"
 )
 
 //go:embed input.txt
